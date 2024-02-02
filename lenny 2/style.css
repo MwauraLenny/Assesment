@@ -1,0 +1,38 @@
+.zero{background-image: url("hero-bg.jpg");
+background-size: cover;
+height: 100vh;}
+.one .logo{padding: 20px}
+.one .none li{list-style: none}
+.one .top{
+    display: flex;
+    justify-content: space-between;}
+
+.one{display: flex;
+justify-content: space-between;
+font-family: "DejaVu Sans";
+padding: 2px;
+    margin:0 20px}
+
+.one .logo a{font-size: 20px;}
+
+.one a{color: white;
+    text-decoration: none;}
+
+.one .none a{padding: 20px}
+
+.two{text-align: center;
+    color: white;
+    font-size: 25px;
+font-family: "DejaVu Sans"}
+
+.three{text-align: center;
+color: white;
+font-family: "DejaVu Sans"}
+
+.three button{padding: 10px;
+background-color: transparent;
+color: white}
+
+.zero-two{background-image: url("contact-img.jpg");
+background-size: cover;
+height: 100vh}
